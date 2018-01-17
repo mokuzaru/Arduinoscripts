@@ -1,0 +1,7 @@
+valores de joystick
+
+idle : J5252
+forward : J5652
+backward : J4852
+left : J5248
+right : J5256
